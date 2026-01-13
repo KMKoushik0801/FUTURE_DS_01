@@ -32,7 +32,8 @@ This project is part of my task-based internship at **Future Interns**, where I 
 ---
 
 ## Tools & Technologies Used
-- Microsoft Excel / Power BI / Tableau *(mention what you actually used)*
+- Microsoft Excel
+- Power BI 
 - Data Cleaning & Transformation
 - Dashboard Design
 - Business Analytics
